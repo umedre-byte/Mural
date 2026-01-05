@@ -1,130 +1,89 @@
 {
-  "name": "Your Name",
-  "business_name": "Your Mural Studio",
-  "tagline": "Transforming spaces through bold, vibrant murals",
+  "name": "Aml Sultana",
+  "business_name": "Aml Artistry",
+  "tagline": "New York Muralist - Creating vibrant spaces through murals",
 
   "contact": {
-    "email": "hello@yourmurals.com",
-    "phone": "(555) 123-4567",
-    "website": "https://yourmurals.com",
-    "instagram": "@yourmurals",
-    "linkedin": "linkedin.com/in/yourname"
+    "email": "hello@amlartistry.com",
+    "phone": "(647) 667-1244",
+    "website": "https://www.amlartistry.com",
+    "instagram": "@amlartistry",
+    "tiktok": "@amlartistry"
   },
 
   "location": {
     "city": "New York",
     "state": "NY",
     "service_areas": [
-      "Manhattan",
-      "Brooklyn",
-      "Queens",
-      "Bronx",
-      "Jersey City",
-      "Hoboken"
+      "New York City",
+      "New Jersey",
+      "Greater Toronto Area"
     ],
-    "willing_to_travel": true,
-    "travel_radius_miles": 100
+    "willing_to_travel": true
   },
 
   "experience": {
-    "years": 10,
-    "murals_completed": 150,
-    "started_year": 2015
+    "years": 6,
+    "started_year": 2019
   },
 
   "specialties": [
+    "Commercial murals",
     "Restaurant & hospitality murals",
-    "Office & corporate installations",
-    "Retail & storefront art",
-    "Outdoor building murals",
-    "Abstract & geometric designs",
-    "Illustrative & character work",
-    "Typography & lettering"
+    "Corporate installations",
+    "Community & cultural projects",
+    "Retail & storefront art"
   ],
 
   "styles": [
-    "Bold & colorful",
-    "Modern abstract",
-    "Illustrative",
-    "Geometric patterns",
-    "Nature-inspired",
-    "Urban contemporary"
+    "Vibrant & colorful",
+    "Story-driven artwork",
+    "Cultural themes",
+    "Music-inspired pieces"
   ],
 
   "notable_clients": [
-    {
-      "name": "Sample Restaurant Group",
-      "type": "Restaurant",
-      "project": "30ft dining room mural",
-      "year": 2024
-    },
-    {
-      "name": "Tech Startup Inc",
-      "type": "Office",
-      "project": "Lobby and conference room murals",
-      "year": 2023
-    },
-    {
-      "name": "Craft Brewery Co",
-      "type": "Brewery",
-      "project": "Taproom wall installation",
-      "year": 2023
-    }
+    { "name": "TikTok", "type": "Corporate" },
+    { "name": "Spiritual Society of Canada", "type": "Community" },
+    { "name": "CAIR - New Jersey", "type": "Nonprofit" },
+    { "name": "Malikah Safety Center", "type": "Community" },
+    { "name": "Haraz", "type": "Hospitality" },
+    { "name": "Veiled Collection", "type": "Retail" }
   ],
 
   "portfolio": {
-    "website_gallery": "https://yourmurals.com/portfolio",
-    "instagram": "https://instagram.com/yourmurals",
-    "featured_works": [
-      {
-        "title": "Urban Jungle",
-        "type": "Restaurant",
-        "description": "Tropical-themed mural for farm-to-table restaurant",
-        "url": "https://yourmurals.com/portfolio/urban-jungle"
-      },
-      {
-        "title": "Innovation Wall",
-        "type": "Office",
-        "description": "Abstract geometric mural for tech company HQ",
-        "url": "https://yourmurals.com/portfolio/innovation-wall"
-      }
-    ]
+    "website_gallery": "https://www.amlartistry.com/portfolio",
+    "instagram": "https://www.instagram.com/amlartistry",
+    "tiktok": "https://www.tiktok.com/@amlartistry"
   },
 
   "pricing": {
-    "rate_type": "per_square_foot",
-    "range_low": 25,
-    "range_high": 75,
-    "currency": "USD",
-    "notes": "Final pricing depends on complexity, location, and timeline"
+    "note": "Pricing varies based on project scope - determined after initial consultation"
   },
 
   "availability": {
     "current_status": "accepting_projects",
     "lead_time_weeks": 4,
-    "preferred_project_duration": "2-4 weeks"
+    "lead_time_note": "1-2 months typical lead time"
   },
 
-  "unique_selling_points": [
-    "10+ years of professional mural experience",
-    "Work featured in TimeOut, Eater, and local press",
-    "Full design-to-installation service",
-    "Quick turnaround for time-sensitive openings",
-    "Collaborative design process with clients"
-  ],
+  "recognition": {
+    "events": [
+      "MIST 2018 - Fine Art Judge & Panelist",
+      "MOSCARS @ McMaster - Workshop Instructor & Guest Speaker",
+      "MIST 2020 - 3D Art Judge"
+    ],
+    "exhibitions": [
+      "Twist Gallery 2020",
+      "Queen Gallery 2018"
+    ]
+  },
+
+  "artist_philosophy": "Creates paintings that tell stories from past experiences. Music is an important aspect attached to every piece of work. Loves how murals bring life and vibrancy to spaces that were once plain walls.",
 
   "social_proof": {
-    "press_mentions": [
-      "Featured in TimeOut NY 'Best New Murals 2024'",
-      "Eater NY coverage of restaurant projects"
-    ],
-    "awards": [],
-    "testimonials": [
-      {
-        "quote": "Working with [Artist] transformed our space. Customers constantly compliment the mural!",
-        "client": "Restaurant Owner",
-        "business": "Sample Bistro"
-      }
-    ]
+    "instagram_followers": "26K",
+    "tiktok_followers": "68.3K",
+    "tiktok_likes": "3.3M"
   }
 }
