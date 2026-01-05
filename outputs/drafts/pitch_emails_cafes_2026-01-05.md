@@ -7,31 +7,34 @@
 ## 1. 12 Matcha (NoHo)
 
 **To:** Contact form at 12matcha.com/contact
-**Subject:** Your walls called. They want some art. 🍵
+**Subject:** Custom Mural Inquiry — Hospitality Experience
 
 ---
 
-Hi Alan & Team,
+Hi Alan,
 
-I'll be honest — I tried to visit 12 Matcha last week but the line was so long I aged into a different demographic by the time I got close to the door. Worth it? Absolutely. That ceremonial grade matcha hit different.
+I came across 12 Matcha and was impressed by the intentional design of your space — from the charcoal water filtration system to the minimalist aesthetic. It's clear you've put thought into every detail of the customer experience.
 
-Here's the thing: you've clearly mastered the art of matcha. You've got the charcoal water filtration system (fancy!), the minimalist aesthetic, the whole vibe. But I couldn't help noticing your walls are doing... nothing. Just standing there. Being walls.
+I'm Aml Sultana, a muralist specializing in hospitality and retail spaces across NYC, NJ, and Toronto. I wanted to reach out because I believe a custom mural could enhance what you've already built.
 
-I'm Aml Sultana, a muralist based in NYC/NJ with 6 years of experience turning "just walls" into destinations. I've painted for TikTok (the company, not the dance), CAIR-NJ, and a bunch of spaces that went from "nice" to "wait, I need to photograph this."
+**Relevant experience:**
 
-A mural at 12 Matcha could:
-- Give those people in line something beautiful to look at
-- Create the ultimate matcha-and-mural Instagram moment
-- Make your already gorgeous space even more unforgettable
+- **Namkeen (3 locations)** — I've completed murals for all three of their hot chicken fusion restaurant locations. They initially commissioned one piece, and after seeing the customer response and social media engagement, they brought me back for their next two openings. Repeat clients speak to results.
 
-I'd love to chat about what a custom piece could look like. Maybe something that complements that earthy matcha green? I promise I'm more fun than my email suggests.
+- **Haraz Coffee House** — I created a ceiling mural for their New Brunswick location. The mural is visible from outside, which has driven foot traffic — customers have mentioned walking in specifically because they saw the artwork. The project has also generated organic TikTok content from visitors.
 
-Portfolio: [amlartistry.com/portfolio](https://www.amlartistry.com/portfolio)
-Instagram: [@amlartistry](https://www.instagram.com/amlartistry/) (26K people who trust my taste)
+- **TikTok** — Commissioned for a social impact mural project on a commercial building exterior.
 
-Matcha made me do it,
+A mural at 12 Matcha could create a signature visual moment that differentiates your space, encourages social sharing, and gives customers another reason to return.
 
-**Aml Sultana**
+I'd welcome the opportunity to discuss what a custom piece might look like for your space.
+
+Portfolio: amlartistry.com/portfolio
+Instagram: @amlartistry
+
+Best regards,
+
+Aml Sultana
 (647) 667-1244
 hello@amlartistry.com
 
@@ -40,28 +43,34 @@ hello@amlartistry.com
 ## 2. Felix Roasting Co.
 
 **To:** hello@felixroastingco.com
-**Subject:** Ken Fulk did the interiors. Let me do the walls.
+**Subject:** Mural Partnership Inquiry — Felix Roasting Co.
 
 ---
 
 Hi Matt,
 
-First: whoever decided to put velvet, dramatic lighting, and exceptional espresso in the same room deserves an award. Felix Roasting is basically what would happen if a coffee shop and a very chic speakeasy had a baby.
+I've followed Felix Roasting Co.'s expansion across NYC and have been impressed by how consistently you've maintained design excellence across locations. The Ken Fulk interiors set a high bar, and it's clear that visual experience is central to the Felix brand.
 
-I know you work with Ken Fulk on interiors (iconic), and I'm not suggesting I replace anything. But I AM suggesting that a custom mural could add another layer to the Felix experience — especially as you expand to new locations.
+I'm Aml Sultana, a muralist with 6 years of experience creating custom artwork for hospitality and corporate spaces. I'm reaching out because I specialize in creating pieces that complement existing design rather than compete with it.
 
-I'm Aml Sultana, a muralist who's painted for TikTok, hospitality venues, and retail spaces across NYC and Toronto. My work tends to be vibrant and story-driven, but I'm also great at creating pieces that *complement* existing design rather than compete with it.
+**Relevant experience:**
 
-Imagine: a commissioned piece that becomes as signature to Felix as your espresso tonic with Persian lime and cardamom. (Yes, I did my homework. Yes, that drink sounds incredible.)
+- **Namkeen (3 locations)** — I've been commissioned for all three locations of this restaurant brand. After the first mural drove customer engagement and social media visibility, they brought me back for each new opening. This kind of repeat partnership reflects measurable value.
 
-I'd love to buy you a coffee — at Felix, obviously — and chat about possibilities.
+- **Haraz Coffee House** — My ceiling mural for their New Brunswick location has become a draw for the business. It's visible from outside, and customers regularly cite the artwork as what brought them in. The mural has generated organic social content without any paid promotion.
 
-Portfolio: [amlartistry.com/portfolio](https://www.amlartistry.com/portfolio)
-Instagram: [@amlartistry](https://www.instagram.com/amlartistry/)
+- **TikTok** — Selected for a social impact mural project on a commercial building, demonstrating experience with brand-conscious, high-visibility work.
 
-Caffeinated and ready to create,
+As Felix continues to expand, a signature art piece could add another layer of distinction to new locations while maintaining your elevated aesthetic.
 
-**Aml Sultana**
+I'd be glad to discuss how a collaboration might work.
+
+Portfolio: amlartistry.com/portfolio
+Instagram: @amlartistry
+
+Best regards,
+
+Aml Sultana
 (647) 667-1244
 hello@amlartistry.com
 
@@ -70,28 +79,34 @@ hello@amlartistry.com
 ## 3. Gather Cafe (LES)
 
 **To:** (646) 370-4672 / contact via letsgatherandplay.com
-**Subject:** Woman-owned meets woman-painted 🎨
+**Subject:** Mural Inquiry — Gather Cafe
 
 ---
 
-Hi there,
+Hello,
 
-I love everything about Gather: the coffee, the wine bar situation, the fact that you host fashion events and brand pop-ups. But mostly I love that it's woman-owned, because same energy.
+I recently learned about Gather Cafe and appreciated your approach — a woman-owned space that combines coffee, wine, and community events. It's the kind of multi-use environment where thoughtful design makes a real difference.
 
-I'm Aml Sultana — muralist, artist, and fellow woman trying to make beautiful things happen in NYC. I've spent the last 6 years painting walls for everyone from TikTok to community centers, and I think Gather's "cozy, creative setting" could be even cozier and more creative with some original art.
+I'm Aml Sultana, a muralist based in NYC/NJ specializing in hospitality and retail spaces. I'm reaching out because I believe a custom mural could support what you're building at Gather.
 
-Here's my pitch: a mural that captures the Gather vibe. Something that makes people want to stay for one more glass of wine. Something that becomes the backdrop for all those fashion events and pop-ups you host. Something that makes your space unmistakably *yours*.
+**Relevant experience:**
 
-Plus, wouldn't it be cool to tell people your mural was painted by a local woman artist? Marketing writes itself.
+- **Namkeen (3 locations)** — I've completed murals for all three locations of this restaurant brand. The first project led to two additional commissions as the business expanded, which speaks to the return on investment murals can provide.
 
-I'd love to swing by, grab a coffee (or wine, no judgment), and chat about what might work for your space.
+- **Haraz Coffee House** — I created a ceiling mural for their New Brunswick location that's visible from outside. It has become a signature element of the space, drawing foot traffic and generating organic social media content from customers.
 
-Portfolio: [amlartistry.com/portfolio](https://www.amlartistry.com/portfolio)
-Instagram: [@amlartistry](https://www.instagram.com/amlartistry/)
+- **TikTok** — Commissioned for a public-facing social impact mural on a commercial building.
 
-Let's gather and create something beautiful,
+For Gather, a mural could serve multiple purposes: creating a distinctive backdrop for your events and pop-ups, giving customers a reason to photograph and share their experience, and reinforcing the creative identity of your brand.
 
-**Aml Sultana**
+I'd welcome the opportunity to visit the space and discuss possibilities.
+
+Portfolio: amlartistry.com/portfolio
+Instagram: @amlartistry
+
+Best regards,
+
+Aml Sultana
 (647) 667-1244
 hello@amlartistry.com
 
@@ -100,31 +115,34 @@ hello@amlartistry.com
 ## 4. WatchHouse
 
 **To:** Contact via watchhouse.com
-**Subject:** 103K followers. Zero murals. Let's fix one of those.
+**Subject:** Custom Mural Inquiry — WatchHouse NYC
 
 ---
 
-Hi WatchHouse Team,
+Hello,
 
-Congrats on the NYC expansion! Going from London to Fifth Avenue to the *Chrysler Building* is basically the coffee shop equivalent of winning the Champions League and then the World Cup.
+Congratulations on WatchHouse's NYC expansion. The move from London to Fifth Avenue and the Chrysler Building represents significant growth, and it's clear that thoughtful space design is central to the WatchHouse brand.
 
-I've been following your "Modern Coffee" approach — thoughtfully designed spaces, rare single-origin beans, the whole elevated experience. You clearly care about aesthetics. Which is why I'm slightly confused that your walls are just... walls.
+I'm Aml Sultana, a muralist with 6 years of experience creating custom artwork for hospitality and corporate clients. I'm reaching out because I specialize in high-visibility projects that align with brand identity.
 
-I'm Aml Sultana, a muralist based in NYC/NJ who specializes in creating artwork for hospitality spaces. I've painted for TikTok HQ, restaurants, retail stores, and community centers. My style is vibrant and story-driven, but I can also do subtle and sophisticated (I contain multitudes).
+**Relevant experience:**
 
-A custom mural at WatchHouse could:
-- Differentiate your NYC locations from the London ones
-- Give your 103K Instagram followers something new to post
-- Turn a "thoughtfully designed space" into an "unforgettable" one
+- **TikTok** — I was selected to create a social impact mural on a commercial building exterior. This project required working within brand guidelines while creating something visually distinctive for public audiences.
 
-I know you're a larger brand with Process and Approvals, but hey — someone has to read this email first. Maybe that someone wants to be a hero?
+- **Namkeen (3 locations)** — I've completed murals for all three locations of this restaurant brand. The initial project performed well enough that they commissioned me for every subsequent location. Repeat business reflects measurable results.
 
-Portfolio: [amlartistry.com/portfolio](https://www.amlartistry.com/portfolio)
-Instagram: [@amlartistry](https://www.instagram.com/amlartistry/)
+- **Haraz Coffee House** — My ceiling mural for their New Brunswick location is visible from outside and has driven foot traffic. Customers have specifically cited the artwork as what drew them in, and the mural has generated organic social media content.
 
-Watching and waiting (get it?),
+A custom mural at WatchHouse's NYC locations could differentiate your US presence, create shareable moments for your audience, and add another layer to your "Modern Coffee" experience.
 
-**Aml Sultana**
+I'd be glad to discuss how a collaboration might work with your team.
+
+Portfolio: amlartistry.com/portfolio
+Instagram: @amlartistry
+
+Best regards,
+
+Aml Sultana
 (647) 667-1244
 hello@amlartistry.com
 
@@ -133,28 +151,34 @@ hello@amlartistry.com
 ## 5. Dae Day Coffee
 
 **To:** Contact via daeday.com / Instagram @daedaycoffee
-**Subject:** Your flat white is perfect. Your walls could be too.
+**Subject:** Mural Inquiry — Dae Day Coffee
 
 ---
 
-Hi Dae Day Team,
+Hello,
 
-As someone who's had a lot of coffee in a lot of cities, I have to say: you're doing the Australian coffee thing RIGHT. The flat white? *Chef's kiss.* The minimalist vibes? Immaculate. The bench seating situation? Unexpectedly comfortable.
+I came across Dae Day Coffee and was drawn to your approach — bringing authentic Australian coffee culture to Midtown. The minimalist design and attention to quality stand out.
 
-But here's the thing about minimalism: it's only one bold art piece away from being *elevated* minimalism.
+I'm Aml Sultana, a muralist specializing in hospitality spaces across NYC, NJ, and Toronto. I'm reaching out because I believe a custom mural could complement what you've built while adding a distinctive visual element.
 
-I'm Aml Sultana, a muralist who's been painting walls across NYC, NJ, and Toronto for 6 years. I've worked with TikTok, hospitality venues, and retail spaces — and I specialize in creating pieces that enhance a space without overwhelming it.
+**Relevant experience:**
 
-For Dae Day, I'm imagining something that complements your clean aesthetic. Maybe something geometric. Maybe something that nods to Australian landscapes. Maybe something that makes your Grand Central-adjacent location feel like a true destination.
+- **Haraz Coffee House** — I created a ceiling mural for their New Brunswick location. The piece is visible from street level and has become a customer draw — people have walked in specifically because they noticed the artwork from outside. It has also generated organic social media content without paid promotion.
 
-I'd love to chat over a flat white (on me, obviously).
+- **Namkeen (3 locations)** — I've been commissioned for all three locations of this restaurant brand. The first mural drove enough customer engagement that they brought me back for each new opening. This kind of repeat partnership demonstrates real business value.
 
-Portfolio: [amlartistry.com/portfolio](https://www.amlartistry.com/portfolio)
-Instagram: [@amlartistry](https://www.instagram.com/amlartistry/)
+- **TikTok** — Selected for a social impact mural on a commercial building exterior, demonstrating experience with high-visibility, brand-conscious work.
 
-G'day from a fellow coffee enthusiast,
+For Dae Day, a mural could work with your minimalist aesthetic rather than against it — creating a focal point that enhances the space without overwhelming it, while giving your Grand Central-adjacent location added visibility.
 
-**Aml Sultana**
+I'd welcome the opportunity to discuss possibilities.
+
+Portfolio: amlartistry.com/portfolio
+Instagram: @amlartistry
+
+Best regards,
+
+Aml Sultana
 (647) 667-1244
 hello@amlartistry.com
 
@@ -163,28 +187,34 @@ hello@amlartistry.com
 ## 6. Café Jalu (Printemps)
 
 **To:** Contact via cafejalu.com
-**Subject:** French pastries + Caribbean spice + murals = magnifique
+**Subject:** Mural Partnership Inquiry — Café Jalu
 
 ---
 
-Bonjour Café Jalu Team,
+Hello,
 
-Opening a French-Caribbean café inside a luxury Parisian department store on Wall Street is the kind of bold, beautiful chaos I deeply respect. Printemps? In FiDi? Serving spiced raisin lattes? You're out here making moves.
+The opening of Café Jalu within Printemps on Wall Street is a distinctive concept — bringing French-Caribbean hospitality to FiDi through a considered design approach. It's clear that visual experience is important to the brand.
 
-I'm Aml Sultana, a muralist who appreciates bold, beautiful chaos. I've spent 6 years creating vibrant, story-driven murals for brands like TikTok, hospitality venues, and cultural centers. My work has been featured in galleries, and I've judged art competitions — but mostly I just really love painting walls.
+I'm Aml Sultana, a muralist with 6 years of experience creating custom artwork for hospitality and retail spaces. I'm reaching out because I specialize in work that enhances existing design vision rather than competing with it.
 
-Café Jalu already has the "maximalist design" thing going (I read the reviews). But imagine adding a custom mural that celebrates that French-Caribbean fusion — something that makes your 25 seats feel like a destination, not just a pit stop.
+**Relevant experience:**
 
-Augustine and Jules Jaluzot would be proud. Probably. I don't actually know them, but I feel like they'd appreciate art.
+- **Namkeen (3 locations)** — I've completed murals for all three locations of this fusion restaurant brand. The initial project was successful enough that they commissioned me for every subsequent opening. Repeat business across multiple locations demonstrates proven value.
 
-I'd love to connect with whoever makes these decisions at Kent Hospitality Group — or just anyone who wants to chat murals over a pain au chocolat.
+- **Haraz Coffee House** — My ceiling mural for their New Brunswick location serves as both interior art and exterior visibility. Customers have cited the artwork as what drew them inside, and the project has generated organic social media content.
 
-Portfolio: [amlartistry.com/portfolio](https://www.amlartistry.com/portfolio)
-Instagram: [@amlartistry](https://www.instagram.com/amlartistry/)
+- **TikTok** — Commissioned for a social impact mural on a commercial building, demonstrating experience with brand-aligned, high-visibility work.
 
-Merci beaucoup,
+For Café Jalu, a custom mural could celebrate the French-Caribbean identity, create a signature visual moment within Printemps, and give customers another reason to seek out and share their experience.
 
-**Aml Sultana**
+I'd be glad to connect with the appropriate contact at Kent Hospitality Group to discuss possibilities.
+
+Portfolio: amlartistry.com/portfolio
+Instagram: @amlartistry
+
+Best regards,
+
+Aml Sultana
 (647) 667-1244
 hello@amlartistry.com
 
@@ -192,48 +222,60 @@ hello@amlartistry.com
 
 ## 7. Central Perk (Friends-themed)
 
-**To:** TBD - Warner Bros. / Production Team
-**Subject:** Could I BE any more perfect for your mural?
+**To:** Warner Bros. / Production Team (research contact)
+**Subject:** Mural Artist Inquiry — Central Perk NYC
 
 ---
 
-Hi Central Perk Team,
+Hello,
 
-I know. I KNOW. You're opening a Friends-themed coffee shop in Times Square and you probably have 47 designers, 12 brand consultants, and Tom Colicchio himself handling the aesthetic. I get it.
+I understand Central Perk is opening in Times Square in late 2025. A project of this scale and cultural significance requires partners who understand both brand integrity and high-visibility execution.
 
-But hear me out: what if there was a mural?
+I'm Aml Sultana, a muralist with 6 years of experience creating custom artwork for hospitality, corporate, and public-facing projects. I'm reaching out because my background may align with your needs.
 
-Not replacing the orange couch. Not touching the iconic signage. But maybe... somewhere? A nod to NYC? A hidden tribute for superfans to discover? Something that makes Central Perk feel like it belongs in *this* New York, not just TV New York?
+**Relevant experience:**
 
-I'm Aml Sultana, a muralist who's painted for TikTok (the company that probably has half your target audience), community centers, and hospitality venues across NYC and Toronto. I specialize in vibrant, story-driven work — and I've been watching Friends reruns since before it was "retro."
+- **TikTok** — I was selected to create a social impact mural on a commercial building exterior. This project required working within brand parameters while creating visually distinctive public art. The experience translates directly to brand-conscious, high-visibility environments.
 
-I know this is a long shot. But you know what else was a long shot? A show about six friends in an inexplicably massive Manhattan apartment lasting 10 seasons. Dreams come true.
+- **Namkeen (3 locations)** — I've completed murals for all three locations of this restaurant brand. Being commissioned for every new location demonstrates consistent quality and business value.
 
-Portfolio: [amlartistry.com/portfolio](https://www.amlartistry.com/portfolio)
-Instagram: [@amlartistry](https://www.instagram.com/amlartistry/)
+- **Haraz Coffee House** — My ceiling mural for their New Brunswick location has driven measurable foot traffic and organic social media engagement. Customers regularly cite the artwork as what brought them in.
 
-Could I BE any more ready to paint?
+For Central Perk, there may be opportunities for custom artwork that complements the iconic design — whether as part of the main space, exterior elements, or special installations that give visitors additional reasons to engage and share.
 
-**Aml Sultana**
+I would welcome the opportunity to discuss how my work might support this project.
+
+Portfolio: amlartistry.com/portfolio
+Instagram: @amlartistry
+
+Best regards,
+
+Aml Sultana
 (647) 667-1244
 hello@amlartistry.com
 
-P.S. — I'll work for coffee. (Just kidding. Mostly.)
+---
+
+# Summary
+
+| Business | Subject Line | Key Value Points |
+|----------|--------------|------------------|
+| 12 Matcha | Custom Mural Inquiry — Hospitality Experience | Namkeen repeat business, Haraz foot traffic |
+| Felix Roasting | Mural Partnership Inquiry — Felix Roasting Co. | Design-complement approach, 3-location track record |
+| Gather Cafe | Mural Inquiry — Gather Cafe | Event backdrop value, social media ROI |
+| WatchHouse | Custom Mural Inquiry — WatchHouse NYC | TikTok brand work, US market differentiation |
+| Dae Day Coffee | Mural Inquiry — Dae Day Coffee | Haraz visibility results, minimalist-compatible |
+| Café Jalu | Mural Partnership Inquiry — Café Jalu | Multi-location experience, cultural design |
+| Central Perk | Mural Artist Inquiry — Central Perk NYC | Brand-conscious public art, TikTok corporate experience |
 
 ---
 
-# Quick Reference
+**Key talking points used across all pitches:**
 
-| Business | Subject Line | Vibe |
-|----------|--------------|------|
-| 12 Matcha | Your walls called. They want some art. | Playful, trendy |
-| Felix Roasting | Ken Fulk did the interiors. Let me do the walls. | Sophisticated, confident |
-| Gather Cafe | Woman-owned meets woman-painted | Warm, community-focused |
-| WatchHouse | 103K followers. Zero murals. Let's fix one of those. | Cheeky, professional |
-| Dae Day Coffee | Your flat white is perfect. Your walls could be too. | Friendly, understated |
-| Café Jalu | French pastries + Caribbean spice + murals = magnifique | Bold, cultured |
-| Central Perk | Could I BE any more perfect for your mural? | Fun, nostalgic |
+1. **Namkeen (3 locations)** — Repeat client across all locations = proven ROI
+2. **Haraz Coffee** — Visible from outside, drives foot traffic, organic social content
+3. **TikTok** — Brand-conscious, high-visibility public mural experience
 
 ---
 
-*Remember: Customize further before sending! Add any personal observations from visiting in person.*
+*Review and personalize before sending. Consider adding observations from visiting each location in person.*
