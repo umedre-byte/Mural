@@ -1,0 +1,130 @@
+{
+  "name": "Your Name",
+  "business_name": "Your Mural Studio",
+  "tagline": "Transforming spaces through bold, vibrant murals",
+
+  "contact": {
+    "email": "hello@yourmurals.com",
+    "phone": "(555) 123-4567",
+    "website": "https://yourmurals.com",
+    "instagram": "@yourmurals",
+    "linkedin": "linkedin.com/in/yourname"
+  },
+
+  "location": {
+    "city": "New York",
+    "state": "NY",
+    "service_areas": [
+      "Manhattan",
+      "Brooklyn",
+      "Queens",
+      "Bronx",
+      "Jersey City",
+      "Hoboken"
+    ],
+    "willing_to_travel": true,
+    "travel_radius_miles": 100
+  },
+
+  "experience": {
+    "years": 10,
+    "murals_completed": 150,
+    "started_year": 2015
+  },
+
+  "specialties": [
+    "Restaurant & hospitality murals",
+    "Office & corporate installations",
+    "Retail & storefront art",
+    "Outdoor building murals",
+    "Abstract & geometric designs",
+    "Illustrative & character work",
+    "Typography & lettering"
+  ],
+
+  "styles": [
+    "Bold & colorful",
+    "Modern abstract",
+    "Illustrative",
+    "Geometric patterns",
+    "Nature-inspired",
+    "Urban contemporary"
+  ],
+
+  "notable_clients": [
+    {
+      "name": "Sample Restaurant Group",
+      "type": "Restaurant",
+      "project": "30ft dining room mural",
+      "year": 2024
+    },
+    {
+      "name": "Tech Startup Inc",
+      "type": "Office",
+      "project": "Lobby and conference room murals",
+      "year": 2023
+    },
+    {
+      "name": "Craft Brewery Co",
+      "type": "Brewery",
+      "project": "Taproom wall installation",
+      "year": 2023
+    }
+  ],
+
+  "portfolio": {
+    "website_gallery": "https://yourmurals.com/portfolio",
+    "instagram": "https://instagram.com/yourmurals",
+    "featured_works": [
+      {
+        "title": "Urban Jungle",
+        "type": "Restaurant",
+        "description": "Tropical-themed mural for farm-to-table restaurant",
+        "url": "https://yourmurals.com/portfolio/urban-jungle"
+      },
+      {
+        "title": "Innovation Wall",
+        "type": "Office",
+        "description": "Abstract geometric mural for tech company HQ",
+        "url": "https://yourmurals.com/portfolio/innovation-wall"
+      }
+    ]
+  },
+
+  "pricing": {
+    "rate_type": "per_square_foot",
+    "range_low": 25,
+    "range_high": 75,
+    "currency": "USD",
+    "notes": "Final pricing depends on complexity, location, and timeline"
+  },
+
+  "availability": {
+    "current_status": "accepting_projects",
+    "lead_time_weeks": 4,
+    "preferred_project_duration": "2-4 weeks"
+  },
+
+  "unique_selling_points": [
+    "10+ years of professional mural experience",
+    "Work featured in TimeOut, Eater, and local press",
+    "Full design-to-installation service",
+    "Quick turnaround for time-sensitive openings",
+    "Collaborative design process with clients"
+  ],
+
+  "social_proof": {
+    "press_mentions": [
+      "Featured in TimeOut NY 'Best New Murals 2024'",
+      "Eater NY coverage of restaurant projects"
+    ],
+    "awards": [],
+    "testimonials": [
+      {
+        "quote": "Working with [Artist] transformed our space. Customers constantly compliment the mural!",
+        "client": "Restaurant Owner",
+        "business": "Sample Bistro"
+      }
+    ]
+  }
+}
