@@ -4,54 +4,110 @@ Reusable prompts for Claude Code to help with lead generation tasks.
 
 ---
 
+## IMPORTANT: Lead Qualification Criteria
+
+Before adding ANY lead, verify they meet these criteria:
+
+### Must-Have Signals (at least 2):
+1. **New/Renovating** — Opened in last 90 days OR currently renovating
+2. **Social Presence** — Active Instagram (posts in last 30 days, 500+ followers)
+3. **Visual Brand** — Website/social shows they care about aesthetics
+4. **Large Wall Space** — Visible blank walls in photos
+5. **Community Focus** — Local, independent, community-oriented
+
+### Strong Conversion Signals:
+- Mentioned "art," "design," "local artists," or "community" anywhere
+- Recently posted about renovations or new space
+- Other locations have murals
+- Competitors nearby have murals
+- Premium positioning (upscale casual+)
+- Active engagement on social (not dead accounts)
+
+### Disqualify If:
+- Chain/franchise (unless local franchise owner)
+- No social media presence at all
+- Last Instagram post 6+ months ago
+- Already has murals everywhere
+- Budget indicators are low (very cheap, discount-focused)
+
+---
+
 ## Quick Lead Discovery Commands
 
 Copy-paste these directly into Claude Code:
 
 ### Daily Quick Search
 ```
-Find 5 new restaurant or cafe openings in Manhattan from the past 2 weeks. Get name, location, Instagram, and any contact info. Save to outputs/leads_[date].md
+Find 5 new restaurant or cafe openings in [CITY] from the past 2 weeks.
+Verify each has: active Instagram, visible wall space, design-conscious aesthetic.
+Get name, location, Instagram, and contact info.
+Save to outputs/leads_[date].md
 ```
 
 ### Neighborhood Blitz
 ```
-Search for new businesses in [Williamsburg/Bushwick/LES/etc] - restaurants, cafes, retail stores. Find ones that opened in the last 60 days. Prioritize ones with visible wall space in photos.
+Search for new businesses in [AREA] - restaurants, cafes, commercial spaces.
+Find ones opened in last 60 days.
+QUALIFY EACH: Check Instagram is active, look for blank walls in photos, verify they care about aesthetics.
+Only include qualified leads.
+```
+
+### USA-Wide Search
+```
+Search for [BUSINESS TYPE] openings across major US cities: NYC, LA, Chicago, Miami, Austin, Denver, Seattle, Portland, Atlanta, Dallas.
+Focus on: new openings, renovations, expansions.
+MUST verify social presence and mural-readiness before including.
+Save to outputs/leads_usa_[date].md
 ```
 
 ---
 
 ## Discovery Prompts
 
-### Find New Restaurant Openings
+### Find New Restaurant Openings (USA-Wide)
 
 ```
-Search for new restaurant openings in [NEIGHBORHOOD/CITY] using these sources:
+Search for new restaurant openings in [CITY] or across multiple cities:
 
 SEARCH QUERIES (run all of these):
-1. "new restaurant [neighborhood] 2026"
-2. "now open [neighborhood] restaurant"
-3. "[neighborhood] restaurant opening"
-4. site:eater.com "[neighborhood]" opening
-5. site:theinfatuation.com "[neighborhood]" new
-6. site:timeout.com new york "[neighborhood]" restaurant
+1. "new restaurant [city] 2026"
+2. "now open [city] restaurant"
+3. "[city] restaurant opening"
+4. site:eater.com "[city]" opening 2026
+5. site:theinfatuation.com "[city]" new
+6. "[city] restaurant grand opening"
 
 For each result, find:
 - Restaurant name and cuisine type
 - Exact address
 - Opening date (or "coming soon")
 - Owner/chef names
-- Instagram handle
-- Any interior photos showing walls
+- Instagram handle + check if active
+- Interior photos — LOOK FOR BLANK WALLS
 - Contact info (website, email, phone)
 
-PRIORITIZE restaurants that:
-- Opened in last 60 days (or opening soon)
-- Have large visible wall space
-- Trendy/artistic/design-forward aesthetic
-- Independent (not chains)
-- Upscale casual or higher price point
+QUALIFICATION CHECKLIST (must pass):
+☐ Opened in last 90 days (or opening soon)
+☐ Instagram is ACTIVE (posted in last 30 days)
+☐ Has 500+ followers OR strong engagement
+☐ Interior shows wall space available
+☐ Independent (not a chain)
+☐ Design-conscious aesthetic
+☐ Upscale casual or higher
 
-Save top 10 to outputs/leads_restaurants_[date].md
+BONUS SIGNALS (higher priority):
+- Mentioned "art" or "local" anywhere
+- Chef/owner has media presence
+- Multiple locations (repeat client potential)
+- Competitors nearby have murals
+
+DO NOT INCLUDE:
+- Chains or franchises
+- Dead Instagram (no posts in 6+ months)
+- Fast food / quick service
+- Discount-focused branding
+
+Save QUALIFIED leads only to outputs/leads_restaurants_[date].md
 ```
 
 ### Find Coffee Shops & Cafes
@@ -223,25 +279,123 @@ PRIORITIZE:
 Save to outputs/leads_hotels_[date].md
 ```
 
-### Find Public Art Opportunities
+### Find Masjids & Islamic Centers
 
 ```
-Search for current public art calls and mural opportunities:
+Search for masjids, mosques, and Islamic centers that may need murals or calligraphy:
+
+SEARCH QUERIES:
+1. "new masjid opening [city] 2026"
+2. "new mosque [city]"
+3. "islamic center renovation [city]"
+4. "masjid expansion [city]"
+5. "muslim community center [city] new building"
+
+TARGET CITIES (large Muslim populations):
+- NYC, NJ (Paterson, Jersey City)
+- Detroit/Dearborn, MI
+- Chicago, IL
+- Houston, TX
+- Dallas, TX
+- Los Angeles, CA
+- Atlanta, GA
+- Philadelphia, PA
+- DMV (DC, Maryland, Virginia)
+- Minneapolis, MN
+
+LOOK FOR:
+- New construction or major renovations
+- Community fundraising for new space
+- Recently completed buildings needing interior art
+- Centers mentioning "beautification" or "design"
+- Active social media presence
+
+For each, find:
+- Masjid/center name
+- Location
+- Website
+- Social media (Facebook often more active than Instagram)
+- Board contact or imam name
+- Recent news about construction/renovation
+- Community size indicators
+
+QUALIFICATION CHECK:
+- Is this a new or renovated space?
+- Do they have fundraising capacity?
+- Are they active on social media?
+- Have they mentioned art, calligraphy, or beautification?
+
+NOTE: Aml has experience with Islamic calligraphy and worked with Spiritual Society of Canada. This is a specialty niche.
+
+Save to outputs/leads_masjids_[date].md
+```
+
+### Find Commercial Spaces & Offices (USA-Wide)
+
+```
+Search for commercial spaces needing murals across major US cities:
+
+SEARCH QUERIES:
+1. "new office opening [city] 2026"
+2. "coworking space opening [city]"
+3. "tech startup new headquarters [city]"
+4. "creative agency new office [city]"
+5. site:commercialobserver.com [city] lease creative
+
+TARGET CITIES:
+- NYC, LA, Chicago, Miami, Austin, Denver, Seattle, Portland, Atlanta, Dallas, San Francisco, Boston, Nashville, Phoenix
+
+TYPES OF COMMERCIAL SPACES:
+- Tech company offices
+- Creative/design agencies
+- Coworking spaces (WeWork competitors)
+- Startup headquarters
+- Media companies
+- Architecture firms
+- Marketing agencies
+
+QUALIFICATION CRITERIA:
+- Recently moved or opened (last 6 months)
+- Active LinkedIn company page
+- Website shows design-conscious brand
+- Mentioned "culture," "workspace," or "creative" in job posts
+- Well-funded (Series A+ for startups)
+
+For each, find:
+- Company name
+- Office address
+- Industry
+- Key decision makers (CEO, Head of People, Office Manager)
+- LinkedIn page
+- Company size
+- Any press about the move
+
+Save to outputs/leads_commercial_usa_[date].md
+```
+
+### Find Public Art Opportunities (USA-Wide)
+
+```
+Search for public art calls and mural opportunities across the USA:
 
 SEARCH QUERIES:
 1. "[city] public art call 2026"
 2. "[city] mural RFP"
 3. "call for artists [city] mural"
-4. "[city] percent for art"
-5. site:callforentry.org "[city]" mural
-6. site:nyc.gov "public art" call
+4. "[state] percent for art"
+5. site:callforentry.org mural [year]
+6. site:publicartarchive.org opportunities
 
-CHECK THESE SOURCES DIRECTLY:
-- NYC Department of Cultural Affairs
-- Brooklyn Arts Council
-- NYC Parks Percent for Art
-- MTA Arts & Design
-- Local community boards
+CHECK THESE SOURCES:
+- Americans for the Arts public art network
+- Call for Entry (cafe.org)
+- Public Art Archive
+- City cultural affairs departments
+- State arts councils
+- Local community development organizations
+
+TARGET CITIES WITH ACTIVE PUBLIC ART PROGRAMS:
+- NYC, LA, Chicago, Philadelphia, Denver, Austin, Miami, Seattle, Portland, Atlanta, San Francisco, Boston, Minneapolis
 
 For each opportunity, find:
 - Sponsoring organization
@@ -249,12 +403,50 @@ For each opportunity, find:
 - Deadline
 - Budget (if listed)
 - Location/site
-- Eligibility requirements
-- How to apply
+- Eligibility (local artist requirements?)
+- Application requirements
 - Contact info
 
-Save to outputs/public_art_opportunities.md
+Save to outputs/public_art_usa_[date].md
 ```
+
+---
+
+## USA City Targeting
+
+### Tier 1 Cities (Highest Opportunity)
+- **New York City** — All boroughs, highest volume
+- **Los Angeles** — Arts district, West Hollywood, DTLA
+- **Chicago** — Wicker Park, Logan Square, West Loop
+- **Miami** — Wynwood, Design District, Brickell
+- **Austin** — East Austin, South Congress, downtown
+
+### Tier 2 Cities (Strong Markets)
+- **Denver** — RiNo, LoDo, Capitol Hill
+- **Seattle** — Capitol Hill, Fremont, Ballard
+- **Portland** — Alberta, Pearl District, Division
+- **Atlanta** — Old Fourth Ward, Ponce City, Westside
+- **Dallas** — Deep Ellum, Design District, Bishop Arts
+- **San Francisco** — Mission, SOMA, Hayes Valley
+- **Nashville** — East Nashville, The Gulch, 12 South
+- **Philadelphia** — Fishtown, Northern Liberties, Rittenhouse
+
+### Emerging Markets
+- **Phoenix** — Roosevelt Row, downtown
+- **Charlotte** — NoDa, South End
+- **Detroit** — Corktown, Midtown
+- **Minneapolis** — Northeast, North Loop
+- **San Diego** — North Park, Barrio Logan
+
+### Masjid/Islamic Center Hotspots
+- **NYC/NJ** — Paterson, Jersey City, Jackson Heights
+- **Detroit/Dearborn** — Largest Arab-American population
+- **Chicago** — Devon Ave, Bridgeview
+- **Houston/Dallas** — Large Muslim communities
+- **DMV** — Falls Church, Fairfax, Baltimore
+- **Los Angeles** — Anaheim, Irvine, LA proper
+- **Minneapolis** — Cedar-Riverside (Somali community)
+- **Atlanta** — Clarkston, Decatur
 
 ---
 
