@@ -4,73 +4,223 @@ Reusable prompts for Claude Code to help with lead generation tasks.
 
 ---
 
+## Quick Lead Discovery Commands
+
+Copy-paste these directly into Claude Code:
+
+### Daily Quick Search
+```
+Find 5 new restaurant or cafe openings in Manhattan from the past 2 weeks. Get name, location, Instagram, and any contact info. Save to outputs/leads_[date].md
+```
+
+### Neighborhood Blitz
+```
+Search for new businesses in [Williamsburg/Bushwick/LES/etc] - restaurants, cafes, retail stores. Find ones that opened in the last 60 days. Prioritize ones with visible wall space in photos.
+```
+
+---
+
 ## Discovery Prompts
 
 ### Find New Restaurant Openings
 
 ```
-Search for new restaurant openings in [NEIGHBORHOOD/CITY] from the past 30 days.
+Search for new restaurant openings in [NEIGHBORHOOD/CITY] using these sources:
 
-Look for:
-- Restaurant name and type of cuisine
-- Location/address
+SEARCH QUERIES (run all of these):
+1. "new restaurant [neighborhood] 2026"
+2. "now open [neighborhood] restaurant"
+3. "[neighborhood] restaurant opening"
+4. site:eater.com "[neighborhood]" opening
+5. site:theinfatuation.com "[neighborhood]" new
+6. site:timeout.com new york "[neighborhood]" restaurant
+
+For each result, find:
+- Restaurant name and cuisine type
+- Exact address
 - Opening date (or "coming soon")
-- Owner names if mentioned
-- Any photos showing the interior/walls
-- Their Instagram handle
+- Owner/chef names
+- Instagram handle
+- Any interior photos showing walls
+- Contact info (website, email, phone)
 
-Focus on restaurants that appear to have:
-- Visible wall space
-- Trendy/artistic aesthetic
-- Local/artisanal focus
-- Budget for design (upscale casual or higher)
+PRIORITIZE restaurants that:
+- Opened in last 60 days (or opening soon)
+- Have large visible wall space
+- Trendy/artistic/design-forward aesthetic
+- Independent (not chains)
+- Upscale casual or higher price point
 
-Save the top 10 most promising leads to outputs/leads_restaurants_[date].md
+Save top 10 to outputs/leads_restaurants_[date].md
 ```
 
-### Find Brewery/Coffee Shop Leads
+### Find Coffee Shops & Cafes
 
 ```
-Search for new breweries, taprooms, and specialty coffee shops in [AREA].
+Search for new coffee shops, cafes, and bakeries in [AREA]:
+
+SEARCH QUERIES:
+1. "new coffee shop [area] 2026"
+2. "cafe opening [area]"
+3. "[area] specialty coffee new"
+4. site:sprudge.com "[city]" opening
+5. site:perfectdailygrind.com "[city]" new cafe
+
+ALSO CHECK:
+- Instagram hashtags: #[neighborhood]coffee, #[city]cafe
+- Yelp "Newly Opened" filter for the area
+- Google Maps "coffee" sorted by newest
 
 For each, find:
-- Business name
-- Location
-- Opening status (open, coming soon, recently opened)
-- Social media presence
-- Any visible interior photos
-- Contact information if available
+- Name and concept
+- Address
+- Instagram (check follower count)
+- Interior photos
+- Owner info if available
+- Website/contact
 
-Prioritize:
-- Craft/independent establishments
-- Those with visible wall space
+PRIORITIZE:
+- Specialty/third-wave coffee (not Starbucks vibes)
+- Visible wall space
+- Design-conscious interiors
 - Active Instagram presence
-- Neighborhood-focused concepts
 
-Save to outputs/leads_hospitality_[date].md
+Save to outputs/leads_cafes_[date].md
 ```
 
-### Find Office/Corporate Leads
+### Find Breweries & Bars
 
 ```
-Search for companies that recently moved to or opened new offices in [CITY/AREA].
+Search for new breweries, taprooms, wine bars, and cocktail bars in [AREA]:
 
-Focus on:
-- Tech startups and scale-ups
-- Creative agencies
-- Architecture and design firms
-- Companies mentioning "office culture" or workspace design
+SEARCH QUERIES:
+1. "new brewery [area] 2026"
+2. "taproom opening [area]"
+3. "[area] cocktail bar new"
+4. "[area] wine bar opening"
+5. site:punchdrink.com "[city]" new bar
+6. site:vinepair.com "[city]" brewery
+
+For each, find:
+- Name and type (brewery/bar/wine bar)
+- Address
+- Instagram
+- Interior photos (look for large walls, blank spaces)
+- Concept/vibe
+- Owner names
+- Contact info
+
+PRIORITIZE:
+- Craft/independent (not big chains)
+- Large taproom or bar space
+- Industrial or artistic aesthetic
+- Active social presence
+
+Save to outputs/leads_bars_[date].md
+```
+
+### Find Retail & Boutiques
+
+```
+Search for new retail stores, boutiques, and shops in [AREA]:
+
+SEARCH QUERIES:
+1. "new store opening [area] 2026"
+2. "[area] boutique opening"
+3. "new retail [area]"
+4. "[area] shop grand opening"
+
+TYPES TO LOOK FOR:
+- Fashion boutiques
+- Home goods/furniture stores
+- Fitness studios/gyms
+- Salons and spas
+- Plant shops
+- Record stores
+- Bookstores
+
+For each, find:
+- Name and type
+- Address
+- Instagram
+- Interior photos
+- Owner info
+- Website
+
+PRIORITIZE:
+- Design-forward aesthetics
+- Local/independent
+- Large wall space visible
+- Premium positioning
+
+Save to outputs/leads_retail_[date].md
+```
+
+### Find Office & Corporate Leads
+
+```
+Search for companies with new or renovated offices in [AREA]:
+
+SEARCH QUERIES:
+1. "[company type] new office [city] 2026"
+2. "[city] office relocation tech startup"
+3. "new headquarters [city]"
+4. site:commercialobserver.com "[city]" lease
+5. site:therealdeal.com "[city]" office
+
+COMPANY TYPES TO TARGET:
+- Tech startups (Series A+)
+- Creative/design agencies
+- Architecture firms
+- Media companies
 - Co-working spaces
+- VC/investment firms
 
 For each, find:
 - Company name
-- Office location
+- New office address
 - Industry/what they do
-- LinkedIn presence
-- Any news about their move/expansion
-- Who handles facilities/office design
+- Size (employees)
+- Key people (CEO, Office Manager, Head of People)
+- LinkedIn company page
+- Any press about the move
+
+PRIORITIZE:
+- Companies mentioning "culture" or "workspace design"
+- Creative industries
+- Well-funded startups
+- Companies with design-forward branding
 
 Save to outputs/leads_corporate_[date].md
+```
+
+### Find Hotels & Hospitality
+
+```
+Search for new hotels, boutique hotels, and hospitality venues in [AREA]:
+
+SEARCH QUERIES:
+1. "new hotel opening [city] 2026"
+2. "boutique hotel [city] opening"
+3. "[city] hotel renovation"
+4. site:hospitalitydesign.com "[city]"
+
+For each, find:
+- Hotel name and brand
+- Address
+- Opening date
+- Management company
+- Interior designer (if mentioned)
+- Instagram
+- Press contact
+
+PRIORITIZE:
+- Boutique/independent hotels
+- Lifestyle brands
+- Hotels mentioning local art or design
+- Lobby or common area spaces
+
+Save to outputs/leads_hotels_[date].md
 ```
 
 ### Find Public Art Opportunities
@@ -78,25 +228,61 @@ Save to outputs/leads_corporate_[date].md
 ```
 Search for current public art calls and mural opportunities:
 
-Look for:
-- City/municipal art programs
-- "Percent for art" projects
-- Community mural programs
-- Corporate public art RFPs
-- Developer public art requirements
+SEARCH QUERIES:
+1. "[city] public art call 2026"
+2. "[city] mural RFP"
+3. "call for artists [city] mural"
+4. "[city] percent for art"
+5. site:callforentry.org "[city]" mural
+6. site:nyc.gov "public art" call
+
+CHECK THESE SOURCES DIRECTLY:
+- NYC Department of Cultural Affairs
+- Brooklyn Arts Council
+- NYC Parks Percent for Art
+- MTA Arts & Design
+- Local community boards
 
 For each opportunity, find:
 - Sponsoring organization
+- Project name/description
 - Deadline
+- Budget (if listed)
 - Location/site
-- Budget if listed
-- Application requirements
-- Contact information
-
-Focus on [CITY/REGION] and surrounding areas.
+- Eligibility requirements
+- How to apply
+- Contact info
 
 Save to outputs/public_art_opportunities.md
 ```
+
+---
+
+## NYC Neighborhood Targeting
+
+### Manhattan Neighborhoods (High Opportunity)
+- **NoHo/SoHo** — Design-forward, high budget
+- **Lower East Side** — Trendy restaurants, bars
+- **West Village** — Boutiques, upscale casual
+- **East Village** — Bars, creative spaces
+- **Tribeca** — High-end restaurants
+- **Chelsea** — Galleries, creative offices
+- **Flatiron/NoMad** — Tech offices, upscale hospitality
+- **Midtown** — Corporate, hotels
+
+### Brooklyn Neighborhoods (High Opportunity)
+- **Williamsburg** — Everything, very competitive
+- **Bushwick** — Breweries, creative spaces
+- **Greenpoint** — Cafes, boutiques
+- **DUMBO** — Tech offices, upscale
+- **Crown Heights** — Restaurants, cafes
+- **Park Slope** — Family-friendly retail, restaurants
+- **Cobble Hill/Boerum Hill** — Boutiques, restaurants
+
+### Jersey/Other
+- **Jersey City** — Growing restaurant scene
+- **Hoboken** — Bars, restaurants
+- **Astoria** — Diverse restaurants
 
 ---
 
@@ -107,23 +293,23 @@ Save to outputs/public_art_opportunities.md
 ```
 Research [BUSINESS NAME] thoroughly for a mural pitch:
 
-Find:
-1. Owner/decision maker name
-2. Email address (check website, LinkedIn, press releases)
+FIND THIS INFO:
+1. Owner/founder name
+2. Email (check: website, LinkedIn, press releases, Hunter.io)
 3. Phone number
-4. Instagram handle and follower count
-5. Business concept/story
-6. Interior photos (especially walls)
-7. Design aesthetic
-8. Any press coverage
-9. When they opened
-10. Their values/what they care about
+4. Instagram handle + follower count
+5. When they opened
+6. Business concept/story
+7. Design firm that did their space (if any)
+8. Interior photos — especially blank walls
+9. Press coverage
+10. Their vibe/values
 
-Also look for:
-- Any existing art on their walls
-- Mentions of local artists or community
-- Design firm that did their space
-- Any planned expansions
+ALSO CHECK:
+- Do they already have murals or art?
+- Have they mentioned art or local artists anywhere?
+- Are they expanding to new locations?
+- What's their design aesthetic?
 
 Save to outputs/research_[business-name].md
 ```
@@ -133,21 +319,24 @@ Save to outputs/research_[business-name].md
 ```
 Find contact information for [BUSINESS NAME] in [LOCATION]:
 
-Priority order:
+PRIORITY ORDER:
 1. Owner/founder direct email
 2. General manager email
-3. Contact form on website
+3. General inquiry email
 4. Phone number
-5. Instagram DM (as backup)
+5. Contact form URL
+6. Instagram DM (backup)
 
-Search:
-- Their website (especially About, Contact, Press pages)
-- LinkedIn profiles of owners/managers
-- Press releases mentioning them
-- Business registration records
+SEARCH THESE:
+- Website: About, Contact, Press, Team pages
+- LinkedIn: Owner/manager profiles
+- Press releases mentioning the business
 - Yelp business info
+- Google Maps listing
+- Secretary of State business filings (for owner name)
+- Instagram bio
 
-Note the source of each piece of contact info found.
+Note where each piece of info was found.
 ```
 
 ### Competitive Research
@@ -155,15 +344,17 @@ Note the source of each piece of contact info found.
 ```
 Research recent mural projects in [AREA] to find similar opportunities:
 
-1. Search for muralists who completed projects in the last 6 months
-2. Identify the businesses they worked with
-3. Look for similar businesses nearby that don't have murals yet
+1. Search: "[area] new mural 2026" and "muralist [area] project"
+2. Check Instagram: #[area]mural, #[city]murals
+3. Find which businesses recently got murals
+4. Identify similar businesses nearby WITHOUT murals
+5. Those are your leads
 
-For each potential lead found:
+For each potential lead:
 - Business name and type
 - Location
-- Why they might want a mural (similar to business that got one)
-- Contact info if available
+- Why they're similar to one that got a mural
+- Contact info
 
 Save to outputs/competitive_leads.md
 ```
@@ -177,24 +368,27 @@ Save to outputs/competitive_leads.md
 ```
 Draft a personalized pitch email for [BUSINESS NAME].
 
-Context:
+CONTEXT:
 - Business type: [restaurant/cafe/office/etc]
 - Location: [neighborhood]
 - Recently: [opened/expanded/renovated]
 - Specific observation: [what you noticed about them]
-- Relevant past project: [similar work you've done]
+- Relevant past project: [similar work I've done]
 
-Use the [restaurant/cafe/office] template from templates/email_templates.md as a base.
+USE MY CASE STUDIES:
+- Namkeen: 3 locations, repeat client
+- Haraz Coffee: ceiling mural visible from outside, drove foot traffic
+- TikTok: social impact mural on commercial building
 
-Requirements:
+REQUIREMENTS:
 - Under 150 words
-- Reference something specific about their business
-- Mention relevant similar project
+- Lead with something specific about THEM
+- Mention relevant similar project with results
 - Include portfolio link
-- Clear call to action
-- Match their vibe (casual/professional)
+- Conversational but professional tone
+- Soft call to action
 
-Save draft to outputs/drafts/[business-name]_pitch.md
+Save to outputs/drafts/[business-name]_pitch.md
 ```
 
 ### Draft Follow-Up Email
@@ -204,28 +398,13 @@ Draft a follow-up email for [BUSINESS NAME].
 
 Original outreach was sent [DATE/TIMEFRAME] with no response.
 
-Keep it:
-- Brief (under 75 words)
+KEEP IT:
+- Under 75 words
 - Friendly, not pushy
-- Offering an easy out ("if timing isn't right")
-- Leaving door open for future
+- Offer an easy out ("if timing isn't right")
+- Leave door open for future
 
 Save to outputs/drafts/[business-name]_followup.md
-```
-
-### Draft Warm Introduction Email
-
-```
-Draft an introduction email for [BUSINESS NAME].
-
-Context:
-- Referred by: [MUTUAL CONTACT]
-- How referrer knows them: [relationship]
-- What referrer said: [any context given]
-
-Make it feel warm and personal, mention the mutual connection prominently.
-
-Save to outputs/drafts/[business-name]_intro.md
 ```
 
 ---
@@ -235,62 +414,79 @@ Save to outputs/drafts/[business-name]_intro.md
 ### Weekly Lead Summary
 
 ```
-Summarize my lead generation activity this week:
+Summarize my lead generation this week:
 
-Look at all files in outputs/ from the past 7 days and provide:
+Look at all files in outputs/ from past 7 days:
 
-1. Total new leads found (by category)
+1. Total new leads (by category)
 2. Leads with complete contact info
 3. Pitches drafted
 4. Any patterns in what's working
-5. Recommended priorities for next week
+5. Priority leads for next week
 
-Format as a brief weekly report.
+Format as a brief report.
 ```
 
-### Lead Pipeline Status
+### Pipeline Status
 
 ```
-Review my current lead pipeline:
+Review my lead pipeline:
 
-Go through outputs/ folder and categorize all leads by status:
-- New (not yet contacted)
+Go through outputs/ and categorize leads:
+- New (not contacted)
 - Contacted (awaiting response)
 - Responded (in conversation)
 - Not interested
 - Won (project booked)
 
-List each with last action date.
-
-Flag any leads that need follow-up (contacted >5 days ago, no response).
+Flag leads needing follow-up (contacted >5 days ago, no response).
 ```
 
 ---
 
-## Search Strategies
+## Search Query Cheatsheet
 
-When Claude Code searches, use these patterns:
+### For New Openings
+```
+"new restaurant [neighborhood] 2026"
+"[neighborhood] opening soon"
+"now open [neighborhood]"
+site:eater.com [city] openings
+site:theinfatuation.com [neighborhood] new
+site:timeout.com [city] new restaurant
+site:ny.eater.com "[neighborhood]"
+```
 
-**For new openings:**
-- `"[city] new restaurant opening 2025"`
-- `"[neighborhood] restaurant coming soon"`
-- `"[city] brewery opening"`
-- `site:eater.com [city] openings`
-- `site:instagram.com [neighborhood] new restaurant`
+### For Contacts
+```
+"[business name]" owner
+"[business name]" founder
+"[business name]" email
+"[owner name]" email [city]
+site:linkedin.com "[business name]" [city]
+```
 
-**For contacts:**
-- `"[business name]" owner`
-- `"[business name]" founder email`
-- `site:linkedin.com "[business name]" [city]`
-- `"[owner name]" email [city]`
+### For Public Art
+```
+[city] public art call 2026
+[city] mural RFP artist
+"call for artists" [city] mural
+site:callforentry.org [city]
+```
 
-**For public art:**
-- `[city] public art call for artists`
-- `[city] mural program application`
-- `"percent for art" [city] [year]`
-- `site:callforentry.org [city] mural`
+### For Instagram Research
+```
+site:instagram.com "[business name]"
+#[neighborhood]eats
+#[neighborhood]coffee
+#[city]restaurants
+#[city]newrestaurant
+```
 
-**For competitive intel:**
-- `[neighborhood] mural artist`
-- `"new mural" [city] [year]`
-- `site:instagram.com [city] mural reveal`
+### For Competitive Intel
+```
+"[neighborhood] mural" 2026
+muralist [neighborhood] project
+"new mural" [city]
+site:instagram.com [neighborhood] mural
+```
